@@ -5,6 +5,10 @@
 
 ---
 
+![Demo](../assets/one.jpeg)
+![Demo](../assets/two.jpeg)
+
+
 ## 1. PROBLEM CONTEXT
 
 Neurological diseases like Parkinson's progress silently. Changes in speech, facial movement, and daily behavior often appear long before a formal clinical diagnosis — yet these signals go completely untracked between clinical visits.
